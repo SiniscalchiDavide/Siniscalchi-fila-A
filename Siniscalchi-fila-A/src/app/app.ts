@@ -13,4 +13,5 @@ import { SecondComponent } from './second-component/second-component';
 })
 export class App {
   protected readonly title = signal('Siniscalchi-fila-A');
+  Siniscalchi='app';
 }
